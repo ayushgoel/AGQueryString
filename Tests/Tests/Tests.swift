@@ -1,10 +1,3 @@
-//
-//  Tests.swift
-//  Tests
-//
-//  Created by Ayush Goel on 14/05/15.
-//
-//
 
 import UIKit
 import XCTest
