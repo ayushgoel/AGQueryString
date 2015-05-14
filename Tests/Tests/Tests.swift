@@ -1,7 +1,6 @@
 
 import UIKit
 import XCTest
-import AGQueryString
 
 class Tests: XCTestCase {
 
