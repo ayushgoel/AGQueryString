@@ -1,4 +1,6 @@
 
+import Foundation
+
 extension Dictionary {
   func queryString() -> String {
     var comps = [NSURLQueryItem]()
