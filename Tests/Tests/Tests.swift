@@ -4,11 +4,6 @@ import XCTest
 
 class Tests: XCTestCase {
 
-  func testExample() {
-    // This is an example of a functional test case.
-    XCTAssert(true, "Pass")
-  }
-
   func testSuccess() {
     let v = ["as": "as", "asd": "asd"]
     v.queryString()
